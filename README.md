@@ -12,3 +12,5 @@ The high contrast color scheme alludes to the solemn nature of the events punctu
 
 ### Methodology
 First minute searched is defined as the first minute where a related search to Paris attacks showed up, starting at 21:18 Central European Time 
+
+<a href="https://http://googletrends.github.io/parisattacks/" title="see interactive visualization"><img src="http://googletrends.github.io/parisattacks/img/paris-attacks-FB-Twitter-thumb.jpg" width="100%" height="auto" align="center" hspace="10" vspace="10" ></a>
